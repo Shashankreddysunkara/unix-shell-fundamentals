@@ -1,0 +1,19 @@
+                          Following are the commands and its purposes:
+
+uname / uname -a: Details about machine u logged into including version of unix
+ps: To check which shell you are running
+cal: To display calandar Ex: cal 9 1752
+passwd: change your login password
+
+                         Command Syntax: $ prog-name [-options] [arguments]
+                         
+ls -lax   or ls -l -ax  or ls -l -a -x
+man [prog-name]: To show system reference manual ex: man cal
+whatis: To detrermine which program is best for a certain task.
+
+exit / ctrl-d: To log out
+ls -F: To list and indicate what are files and directories
+ls -l: To display many file details, including size and sec info. 
+ls -C: To arrange list alphabatically in columns
+ls -r: recursive display contents of every sub-directory.
+
